@@ -1,0 +1,8 @@
+Data for falling mass experience
+Date: 22 Aug 2009
+Taken by TungDT
+
+data point  time    height  uncertainty
+0           0.0     180     3.5
+1           0.5     185     4.5
+2           0.7     192     5.2
